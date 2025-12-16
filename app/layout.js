@@ -32,7 +32,7 @@ const events = [
     tickets: "1500 / 1500 available",
     description:
       "Experience the iconic El Clásico between FC Barcelona and Real Madrid, one of the biggest football rivalries in the world. Don't miss this epic showdown!",
-    image: "/images/event1.jpg"
+    image: "/Images/event1.jpg"
   },
   {
     id: 2,
@@ -44,7 +44,7 @@ const events = [
     tickets: "1200 / 1200 available",
     description:
       "UEFA Champions League clash as Barcelona hosts PSG. Watch world-class stars battle it out on the field!",
-    image: "/images/event2.png"
+    image: "/Images/event2.png"
   },
   {
     id: 3,
@@ -56,7 +56,7 @@ const events = [
     tickets: "800 / 800 available",
     description:
       "An international friendly match between Argentina and France, featuring star players from both teams. Exciting football guaranteed!",
-    image: "/images/event3.jpg"
+    image: "/Images/event3.jpg"
   },
   {
     id: 4,
@@ -68,7 +68,7 @@ const events = [
     tickets: "900 / 900 available",
     description:
       "A blockbuster World Cup qualifying match featuring Argentina and Portugal. Catch the action live at the stadium!",
-    image: "/images/event4.jpg"
+    image: "/Images/event4.jpg"
   }
 ];
 
