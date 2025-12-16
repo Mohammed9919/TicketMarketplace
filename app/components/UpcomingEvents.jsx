@@ -8,22 +8,22 @@ import Image from "next/image";
 export default function UpcomingEvents() {
   const images = [
     {
-      src: "/images/event1.jpg",
+      src: "/Images/event1.jpg",
       title: "FC Barcelona vs Real Madrid — El Clásico",
       desc: "Experience the iconic El Clásico between FC Barcelona and Real Madrid, one of the biggest football rivalries in the world. Don't miss this epic showdown!",
     },
     {
-      src: "/images/event2.png",
+      src: "/Images/event2.png",
       title: "FC Barcelona vs Paris Saint‑Germain",
       desc: "UEFA Champions League clash as Barcelona hosts PSG. Watch world-class stars battle it out on the field!",
     },
     {
-      src: "/images/event3.jpg",
+      src: "/Images/event3.jpg",
       title: "Argentina vs France — International Friendly",
       desc: "An international friendly match between Argentina and France, featuring star players from both teams. Exciting football guaranteed!",
     },
     {
-      src: "/images/event4.jpg",
+      src: "/Images/event4.jpg",
       title: "Argentina vs Portugal — World Cup Qualifier",
       desc: "A blockbuster World Cup qualifying match featuring Argentina and Portugal. Catch the action live at the stadium!",
     },
